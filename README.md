@@ -1,6 +1,7 @@
-# sonic-garbage
-
 **All credit goes to [Colugo](https://twitter.com/ColugoMusic)**
+**[Here's his post showcasing the script](https://twitter.com/ColugoMusic/status/1726001266180956440?s=20)**
+
+# sonic-garbage
 
 ## Overview
 
