@@ -5,7 +5,7 @@
 
 ## Overview
 
-The YouTube Audio Downloader is a Python script that automates the process of generating audio samples from YouTube videos. It randomly selects search phrases from a provided word list, downloads corresponding YouTube videos, and processes the audio to create one-shot and looped versions. The processed audio files are then saved in designated directories.
+Sonic Garbage is a Python script that automates the process of generating audio samples from YouTube videos. It randomly selects search phrases from a provided word list, downloads corresponding YouTube videos, and processes the audio to create one-shot and looped versions. The processed audio files are then saved in designated directories.
 
 ## Features
 
