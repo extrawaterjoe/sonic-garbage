@@ -16,16 +16,15 @@ The YouTube Audio Downloader is a Python script that automates the process of ge
 ## Prerequisites
 
 - Python 3
-- Required Python libraries (`pydub`, `yt_dlp`)
-- FFmpeg
+- Required Python libraries (`pydub`, `yt_dlp`, `isodate`)
+- FFmpeg (See [FFmpeg Installation](https://ffmpeg.org/download.html))
 
 ## Usage
 
 1. Clone the repository to your local machine.
 2. Install the required dependencies using `pip install -r requirements.txt`.
-3. Create a file named `words.txt` containing a list of words, each on a new line.
-4. Run the script using `python youtube_audio_downloader.py`.
-5. Check the `wavs/processed/loop` and `wavs/processed/oneshot` directories for the processed audio files.
+3. Run the script using `python youtube_audio_downloader.py`.
+4. Check the `wavs/processed/loop` and `wavs/processed/oneshot` directories for the processed audio files.
 
 ## Disclaimer
 
